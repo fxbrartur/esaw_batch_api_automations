@@ -1,8 +1,9 @@
 # [eSignAnyWhere](https://www.esignanywhere.net/) is a Namirial-owned company that provides electronic signature solutions
 
-[Product's swagger](https://latam.esignanywhere.net/swagger/?urls.primaryName=v5#/User/User_Create)
 
 ## My script for batch user creation: user-create-batch.py
+
+[Product's swagger](https://latam.esignanywhere.net/swagger/?urls.primaryName=v5#/User/User_Create)
 
 It could be a useful tool for clients and internals who want to create users in larger quantities. Checks which are required:
 
